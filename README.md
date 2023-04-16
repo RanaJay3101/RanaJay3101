@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jay Hareshbhai Rana</h1>
+<h1 align="center">Hi 👋, I'm Jay Rana</h1>
 <h3 align="center">A learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranajay3101&label=Profile%20views&color=0e75b6&style=flat" alt="ranajay3101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranajay3101" alt="ranajay3101" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranajay3101" alt="ranajay3101" /></a> </p> -->
 
 - 🌱 I’m currently learning **Computer Science**
 
@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/jayrana31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayrana31" height="30" width="40" /></a>
 <a href="https://kaggle.com/ranajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ranajay" height="30" width="40" /></a>
 <a href="https://instagram.com/rana_jay_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rana_jay_31" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ranajay206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ranajay206" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rana_jay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ranajay206" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ranajay206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranajay206" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rana_jay_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rana_jay_31" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ranajay206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranajay206" height="30" width="40" /></a>
